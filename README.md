@@ -1,16 +1,13 @@
-## Hi there 👋
+### Dhairyata Shakya
 
-<!--
-**shakyadhairyata/shakyadhairyata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hamburg-based software engineer, 7 years of .NET behind me, deep in the middle of switching to AI engineering.
 
-Here are some ideas to get you started:
+Right now I'm learning Python properly and building **Presence** — an AI copilot for small businesses to stand up a website and run their social presence without hiring an agency. It's the project I'd have wanted to help run my family's business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before this I shipped a lot of Sitecore. Bluegreen Vacations' member portal (booking and auth, 200k owners — now part of Hilton Grand Vacations). Before that, brand sites for SC Johnson — Glade, Raid, Babyganics. Good clients, real production traffic, lots of late-night debugging.
+
+MSc in ML & AI from Liverpool John Moores; PG Diploma from IIIT Bangalore. The theory's been there for a while — now I'm putting it to work.
+
+Looking for AI / ML Engineer roles, Hamburg or remote. I'm authorized to work in Germany (no sponsorship needed) and can start immediately.
+
+[LinkedIn](https://www.linkedin.com/in/dhairyata-shakya/) · dhairyatashakya@hotmail.com
